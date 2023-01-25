@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.859c6d57.css",
+    "main.js": "/static/js/main.176e02c7.js",
+    "static/js/787.b6b68491.chunk.js": "/static/js/787.b6b68491.chunk.js",
+    "static/media/us_can_map.svg": "/static/media/us_can_map.7aa1723f58c453e3d29e3cf6bb63e5ce.svg",
+    "static/media/repair.jpg": "/static/media/repair.7f1a62402c472a4f3531.jpg",
+    "static/media/banner_image.png": "/static/media/banner_image.df9858346e22aa87ead1.png",
+    "static/media/customer_service.jpg": "/static/media/customer_service.9842526d44a984951010.jpg",
+    "static/media/warehousing.jpg": "/static/media/warehousing.0992ca2bcd324726365c.jpg",
+    "static/media/contact_us.jpg": "/static/media/contact_us.b5c1d64af80643f33f1b.jpg",
+    "static/media/logo.svg": "/static/media/logo.56d48ccb58a8e9b508e258930d7ee2db.svg",
+    "static/media/phone.svg": "/static/media/phone.6c48d180bcaaa1989d9912b35208fc46.svg",
+    "static/media/email.svg": "/static/media/email.09f59b228b67847fa9c917396a218b25.svg",
+    "static/media/logo_small.svg": "/static/media/logo_small.2e5cfdd63f728198afe6b19fb6f801a0.svg",
+    "index.html": "/index.html",
+    "main.859c6d57.css.map": "/static/css/main.859c6d57.css.map",
+    "main.176e02c7.js.map": "/static/js/main.176e02c7.js.map",
+    "787.b6b68491.chunk.js.map": "/static/js/787.b6b68491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859c6d57.css",
+    "static/js/main.176e02c7.js"
+  ]
+}
